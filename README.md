@@ -1,2 +1,2 @@
-# pro-C-20
-Designing Algorithms
+# PRO-C20
+collision detection algorithm
